@@ -1,1 +1,1 @@
-all embelm images will be stored in this folder
+all emblem images will be stored in this folder
