@@ -85,7 +85,7 @@ if(rnd==3){q3=questionBank[questionNumber][1];q1=questionBank[questionNumber][2]
 	
 	function displayFinalSlide(){
 		
-		$(stage).append('<div class="questionText">You have finished the quiz!<br><br>Total questions: '+numberOfQuestions+'<br>Correct answers: '+score+'</div>');
+		$(stage).append('<div class="questionText">You have finished the quiz! Reload the page to go again.<br><br>Total questions: '+numberOfQuestions+'<br>Correct answers: '+score+'</div>');
 		
 	}//display final slide
 	
